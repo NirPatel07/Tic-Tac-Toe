@@ -1,3 +1,3 @@
 # Tic-Tac-Toe
-hello
+Hello  
 Play with yourself and enjoy it.
